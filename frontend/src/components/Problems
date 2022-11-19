@@ -1,0 +1,9 @@
+Problem faced during project
+1.this.props.match.params.id was not working in class based
+components for that I had to use useParams in function
+and pass it as a props.
+
+client_id: 1024383244288-e0kd30fge6230kin1ei11bj1bfbatmbk.apps.googleusercontent.com
+client_secret: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
+
+  "sohne-var", "Helvetica Neue", "Arial", sans-serif;
